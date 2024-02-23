@@ -1,4 +1,13 @@
-# AOthello
+# Simardeep's Submission for Othello Minimax Player
+
+This is my submission for the minimax player. I created this for the purpose of a technical interview. 
+
+## Algorithm
+
+A minimax algorithm was implemented to create the player so that it would weigh the remaining spots on the board to determine the strongest one. Alongside, it was created with a greed to corners to strengthen its chances of a strong position at the endgame.
+
+BELOW IS ATOMIC OBJECT'S INFORMATION FOR THIS CHALLENGE.
+## AOthello
 
 Welcome to this year's Atomic Accelerator challenge. You'll be creating a bot to play the game of Othello!
 
